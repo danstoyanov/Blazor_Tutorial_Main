@@ -39,3 +39,5 @@ public class Program
         app.Run();
     }
 }
+
+// Here is the main project to test the Blazor Apps!
